@@ -2,6 +2,10 @@
  * Globals
  */
 
+.special-red {
+  color: #e73f34;
+}
+
 /* Links */
 a,
 a:focus,
